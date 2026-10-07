@@ -1,0 +1,18 @@
+banking360_env/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Python cache
+*.pyo
+*.pyd
+
+# Environment files
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# VS Code local settings
+.vscode/
