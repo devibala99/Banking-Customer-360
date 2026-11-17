@@ -16,3 +16,7 @@ Thumbs.db
 
 # VS Code local settings
 .vscode/
+
+banking360_env/
+.ipynb_checkpoints/
+__pycache__/
